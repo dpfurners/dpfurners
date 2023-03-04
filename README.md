@@ -1,6 +1,6 @@
 # Heyyy, i am Daniel ✨
 
-    Currently Student but addicted to coding.
+    Currently Student and addicted to coding.
     
 ## Skills
 ![](https://img.shields.io/badge/Python-3.10+-informational?style=flat&logo=python&logoColor=white&color=darkgreen)
