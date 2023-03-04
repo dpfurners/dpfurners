@@ -40,4 +40,4 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dpfurners&label=Profile%20views&color=0e75b6&style=flat" alt="Views" />
 </p>
 
-PS: This is my more professional account, view my old "fun" account here: [GozZzer](https://github.com/GozZzer)
+PS: This is my "professional" account, view my old "fun" account here: [GozZzer](https://github.com/GozZzer)
