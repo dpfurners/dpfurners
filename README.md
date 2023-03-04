@@ -11,6 +11,9 @@
     
 ## Current Projects
 
+#### [Watten](https://github.com/BroCodeAT/watten.py)
+    A Card game written in python
+
 #### [python-multiplayer](https://github.com/BroCodeAT/python-multiplayer)
     A Python-Package that makes Client-Server Connections easy.
     not sure if it will be continued... (There are more better, already written packages)
