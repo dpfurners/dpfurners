@@ -7,11 +7,13 @@
 ![](https://img.shields.io/badge/C-Basics-informational?style=flat&logo=c&logoColor=white&color=darkgreen)
 ![](https://img.shields.io/badge/DB-Mysql-informational?style=flat&logo=mysql&logoColor=white&color=darkgreen)
 ![](https://img.shields.io/badge/DB-Postgresql-informational?style=flat&logo=postgresql&logoColor=white&color=darkgreen)
+![](https://img.shields.io/badge/Linux-Basics-informational?style=flat&logo=linux&logoColor=white&color=darkgreen)
     
 ## Current Projects
 
 #### [python-multiplayer](https://github.com/BroCodeAT/python-multiplayer)
     A Python-Package that makes Client-Server Connections easy.
+    not sure if it will be continued... (There are more better, already written packages)
     
 #### [Battleship](https://github.com/dpfurners/Battleship)
     A Project in Python i manage for school purposes.
@@ -32,29 +34,7 @@
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=dpfurners&bg_color=222621&color=a3a3a3&line=39552b&point=14ea10&area=true&hide_border=true" />
 </details>
 
-
-<!-- GitHub section: END -->
-
-<!-- Profile Views -->
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dpfurners&label=Profile%20views&color=0e75b6&style=flat" alt="Views" />
 </p>
 
-Btw this is my second (more professional) account, view my old "fun" account here: [GozZzer](https://github.com/GozZzer)
-
-<!-- THE END -->
-
-<!--
-**dpfurners/dpfurners** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+PS: This is my more professional account, view my old "fun" account here: [GozZzer](https://github.com/GozZzer)
